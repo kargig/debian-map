@@ -6,7 +6,7 @@
   <Style id="primary">
     <IconStyle>
       <Icon>
-        <href>http://ircbots.nanonanonano.net/mirrormap/icons/server-debian.png</href>
+		  <href>https://debianmap.void.gr/icons/server-debian.png</href>
       </Icon>
       <hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
     </IconStyle>
@@ -14,7 +14,7 @@
   <Style id="secondary">
     <IconStyle>
       <Icon>
-        <href>http://ircbots.nanonanonano.net/mirrormap/icons/server-secondary.png</href>
+        <href>https://debianmap.void.gr/icons/server-secondary.png</href>
       </Icon>
       <hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
     </IconStyle>
@@ -22,7 +22,7 @@
   <Style id="mixed">
     <IconStyle>
       <Icon>
-        <href>http://ircbots.nanonanonano.net/mirrormap/icons/server-multiple-mixed.png</href>
+        <href>https://debianmap.void.gr/icons/server-multiple-mixed.png</href>
       </Icon>
       <hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
     </IconStyle>
@@ -30,7 +30,7 @@
   <Style id="secondarymulti">
     <IconStyle>
       <Icon>
-        <href>http://ircbots.nanonanonano.net/mirrormap/icons/server-multiple-secondary.png</href>
+        <href>https://debianmap.void.gr/icons/server-multiple-secondary.png</href>
       </Icon>
       <hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
     </IconStyle>

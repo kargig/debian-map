@@ -15,7 +15,7 @@ for line in coords:
 	placemark = factory.CreatePlacemark()
 	placemark.set_name('Debian Developer')
 	coordinates = factory.CreateCoordinates()
-	coordinates.add_latlng(float(lat), float(lon)) 
+	coordinates.add_latlng(float(lat), float(lon))
 	point = factory.CreatePoint()
 	point.set_coordinates(coordinates)
 	placemark.set_geometry(point)

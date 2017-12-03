@@ -37,7 +37,7 @@
         <name>Debian Developer</name>
         <Point>
           <coordinates>
-            -97.23,49.9,0
+            -11.06,49.46,0
           </coordinates>
         </Point>
       </Placemark>
@@ -53,6 +53,14 @@
         <name>Debian Developer</name>
         <Point>
           <coordinates>
+            -51.13,-29.68,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Debian Developer</name>
+        <Point>
+          <coordinates>
             11.57,48.14,0
           </coordinates>
         </Point>
@@ -61,23 +69,7 @@
         <name>Debian Developer</name>
         <Point>
           <coordinates>
-            6.87,47.63,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Debian Developer</name>
-        <Point>
-          <coordinates>
             -4,40.79,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Debian Developer</name>
-        <Point>
-          <coordinates>
-            60.02,-3.1,0
           </coordinates>
         </Point>
       </Placemark>
@@ -133,15 +125,7 @@
         <name>Debian Developer</name>
         <Point>
           <coordinates>
-            -74.51,40.54,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Debian Developer</name>
-        <Point>
-          <coordinates>
-            126.8,37.55,0
+            72.92,19.13,0
           </coordinates>
         </Point>
       </Placemark>
@@ -150,14 +134,6 @@
         <Point>
           <coordinates>
             -66.86,10.43,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Debian Developer</name>
-        <Point>
-          <coordinates>
-            -75.59,6.18,0
           </coordinates>
         </Point>
       </Placemark>
@@ -237,14 +213,6 @@
         <name>Debian Developer</name>
         <Point>
           <coordinates>
-            17.62,59.2,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Debian Developer</name>
-        <Point>
-          <coordinates>
             18.74,49.22,0
           </coordinates>
         </Point>
@@ -253,7 +221,7 @@
         <name>Debian Developer</name>
         <Point>
           <coordinates>
-            27.57,53.9,0
+            -122.02,37.05,0
           </coordinates>
         </Point>
       </Placemark>
@@ -277,7 +245,7 @@
         <name>Debian Developer</name>
         <Point>
           <coordinates>
-            50.78,6.08,0
+            51.01,13.66,0
           </coordinates>
         </Point>
       </Placemark>
@@ -437,6 +405,14 @@
         <name>Debian Developer</name>
         <Point>
           <coordinates>
+            -71.08,42.37,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Debian Developer</name>
+        <Point>
+          <coordinates>
             -75.65,45.3,0
           </coordinates>
         </Point>
@@ -446,14 +422,6 @@
         <Point>
           <coordinates>
             -104.75,39.02,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Debian Developer</name>
-        <Point>
-          <coordinates>
-            -76.08,45.38,0
           </coordinates>
         </Point>
       </Placemark>
@@ -494,6 +462,14 @@
         <Point>
           <coordinates>
             -0.65,44.84,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Debian Developer</name>
+        <Point>
+          <coordinates>
+            7.17,51.27,0
           </coordinates>
         </Point>
       </Placemark>
@@ -581,7 +557,7 @@
         <name>Debian Developer</name>
         <Point>
           <coordinates>
-            7.85,48,0
+            8.37,49.05,0
           </coordinates>
         </Point>
       </Placemark>
@@ -653,7 +629,7 @@
         <name>Debian Developer</name>
         <Point>
           <coordinates>
-            -47.06,-22.9,0
+            -46.83,-23.17,0
           </coordinates>
         </Point>
       </Placemark>
@@ -741,22 +717,6 @@
         <name>Debian Developer</name>
         <Point>
           <coordinates>
-            -87.87,41.8,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Debian Developer</name>
-        <Point>
-          <coordinates>
-            -43.28,-22.88,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Debian Developer</name>
-        <Point>
-          <coordinates>
             24.68,60.2,0
           </coordinates>
         </Point>
@@ -805,14 +765,6 @@
         <name>Debian Developer</name>
         <Point>
           <coordinates>
-            2.39,48.87,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Debian Developer</name>
-        <Point>
-          <coordinates>
             9.63,49.13,0
           </coordinates>
         </Point>
@@ -838,14 +790,6 @@
         <Point>
           <coordinates>
             150.75,-34.05,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Debian Developer</name>
-        <Point>
-          <coordinates>
-            11.25,43.78,0
           </coordinates>
         </Point>
       </Placemark>
@@ -909,7 +853,7 @@
         <name>Debian Developer</name>
         <Point>
           <coordinates>
-            12.6,37.65,0
+            12.54,38.02,0
           </coordinates>
         </Point>
       </Placemark>
@@ -926,14 +870,6 @@
         <Point>
           <coordinates>
             -77.06,39.29,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Debian Developer</name>
-        <Point>
-          <coordinates>
-            -71.42,41.83,0
           </coordinates>
         </Point>
       </Placemark>
@@ -965,14 +901,6 @@
         <name>Debian Developer</name>
         <Point>
           <coordinates>
-            -58.44,-34.6,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Debian Developer</name>
-        <Point>
-          <coordinates>
             20.94,52.24,0
           </coordinates>
         </Point>
@@ -982,6 +910,14 @@
         <Point>
           <coordinates>
             -0.63,51.32,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Debian Developer</name>
+        <Point>
+          <coordinates>
+            -0.79,52.23,0
           </coordinates>
         </Point>
       </Placemark>
@@ -1021,7 +957,7 @@
         <name>Debian Developer</name>
         <Point>
           <coordinates>
-            -80.42,37.23,0
+            -80.42,37.24,0
           </coordinates>
         </Point>
       </Placemark>
@@ -1038,6 +974,14 @@
         <Point>
           <coordinates>
             -71.7,42.26,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Debian Developer</name>
+        <Point>
+          <coordinates>
+            60.58,56.83,0
           </coordinates>
         </Point>
       </Placemark>
@@ -1085,7 +1029,7 @@
         <name>Debian Developer</name>
         <Point>
           <coordinates>
-            10.76,59.95,0
+            14.8,36.53,0
           </coordinates>
         </Point>
       </Placemark>
@@ -1158,6 +1102,14 @@
         <Point>
           <coordinates>
             8.97,48.55,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Debian Developer</name>
+        <Point>
+          <coordinates>
+            0.08,51.53,0
           </coordinates>
         </Point>
       </Placemark>
@@ -1245,7 +1197,7 @@
         <name>Debian Developer</name>
         <Point>
           <coordinates>
-            -71.08,42.34,0
+            -73.99,40.77,0
           </coordinates>
         </Point>
       </Placemark>
@@ -1269,23 +1221,7 @@
         <name>Debian Developer</name>
         <Point>
           <coordinates>
-            -73.58,45.53,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Debian Developer</name>
-        <Point>
-          <coordinates>
             10.45,46.27,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Debian Developer</name>
-        <Point>
-          <coordinates>
-            12.78,56.18,0
           </coordinates>
         </Point>
       </Placemark>
@@ -1357,7 +1293,7 @@
         <name>Debian Developer</name>
         <Point>
           <coordinates>
-            -113.63,53.53,0
+            -113.69,53.52,0
           </coordinates>
         </Point>
       </Placemark>
@@ -1493,6 +1429,14 @@
         <name>Debian Developer</name>
         <Point>
           <coordinates>
+            -45.97,-21.78,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Debian Developer</name>
+        <Point>
+          <coordinates>
             6.13,46.18,0
           </coordinates>
         </Point>
@@ -1533,7 +1477,7 @@
         <name>Debian Developer</name>
         <Point>
           <coordinates>
-            139.1,36.67,0
+            139.06,36.4,0
           </coordinates>
         </Point>
       </Placemark>
@@ -1605,7 +1549,7 @@
         <name>Debian Developer</name>
         <Point>
           <coordinates>
-            18,59.36,0
+            10.44,63.4,0
           </coordinates>
         </Point>
       </Placemark>
@@ -1614,14 +1558,6 @@
         <Point>
           <coordinates>
             -99.18,19.34,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Debian Developer</name>
-        <Point>
-          <coordinates>
-            10.1,53.6,0
           </coordinates>
         </Point>
       </Placemark>
@@ -1645,7 +1581,7 @@
         <name>Debian Developer</name>
         <Point>
           <coordinates>
-            1.73,52.06,0
+            8.25,50,0
           </coordinates>
         </Point>
       </Placemark>
@@ -1654,14 +1590,6 @@
         <Point>
           <coordinates>
             139.52,35.61,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Debian Developer</name>
-        <Point>
-          <coordinates>
-            6.11,50.77,0
           </coordinates>
         </Point>
       </Placemark>
@@ -1702,6 +1630,14 @@
         <Point>
           <coordinates>
             135.29,35.14,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Debian Developer</name>
+        <Point>
+          <coordinates>
+            -43.28,-22.96,0
           </coordinates>
         </Point>
       </Placemark>
@@ -1845,6 +1781,22 @@
         <name>Debian Developer</name>
         <Point>
           <coordinates>
+            -82.57,27.5,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Debian Developer</name>
+        <Point>
+          <coordinates>
+            -1.03,53.95,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Debian Developer</name>
+        <Point>
+          <coordinates>
             2.4,48.84,0
           </coordinates>
         </Point>
@@ -1925,7 +1877,7 @@
         <name>Debian Developer</name>
         <Point>
           <coordinates>
-            8.52,49.29,0
+            8.86,49.49,0
           </coordinates>
         </Point>
       </Placemark>
@@ -1965,7 +1917,7 @@
         <name>Debian Developer</name>
         <Point>
           <coordinates>
-            5.5,51.43,0
+            5.12,51.93,0
           </coordinates>
         </Point>
       </Placemark>
@@ -1997,6 +1949,14 @@
         <name>Debian Developer</name>
         <Point>
           <coordinates>
+            -90.5,14.63,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Debian Developer</name>
+        <Point>
+          <coordinates>
             6.5,50.7,0
           </coordinates>
         </Point>
@@ -2006,6 +1966,14 @@
         <Point>
           <coordinates>
             15.97,45.8,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Debian Developer</name>
+        <Point>
+          <coordinates>
+            0.11,52.21,0
           </coordinates>
         </Point>
       </Placemark>
@@ -2029,23 +1997,15 @@
         <name>Debian Developer</name>
         <Point>
           <coordinates>
+            8.05,52.28,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Debian Developer</name>
+        <Point>
+          <coordinates>
             10.66,55.67,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Debian Developer</name>
-        <Point>
-          <coordinates>
-            16.56,49.17,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Debian Developer</name>
-        <Point>
-          <coordinates>
-            0,52.2,0
           </coordinates>
         </Point>
       </Placemark>
@@ -2125,14 +2085,6 @@
         <name>Debian Developer</name>
         <Point>
           <coordinates>
-            4.42,50.82,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Debian Developer</name>
-        <Point>
-          <coordinates>
             -1.85,52.48,0
           </coordinates>
         </Point>
@@ -2142,6 +2094,14 @@
         <Point>
           <coordinates>
             -105.03,40.54,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Debian Developer</name>
+        <Point>
+          <coordinates>
+            18.53,53.97,0
           </coordinates>
         </Point>
       </Placemark>
@@ -2198,14 +2158,6 @@
         <Point>
           <coordinates>
             8.25,50,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Debian Developer</name>
-        <Point>
-          <coordinates>
-            -74.34,41.66,0
           </coordinates>
         </Point>
       </Placemark>
@@ -2277,6 +2229,14 @@
         <name>Debian Developer</name>
         <Point>
           <coordinates>
+            -49.28,-25.43,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Debian Developer</name>
+        <Point>
+          <coordinates>
             6.04,50.82,0
           </coordinates>
         </Point>
@@ -2294,14 +2254,6 @@
         <Point>
           <coordinates>
             -123.41,49.44,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Debian Developer</name>
-        <Point>
-          <coordinates>
-            -89.7,39.82,0
           </coordinates>
         </Point>
       </Placemark>
@@ -2350,6 +2302,14 @@
         <Point>
           <coordinates>
             5.87,51.83,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Debian Developer</name>
+        <Point>
+          <coordinates>
+            7.72,44.55,0
           </coordinates>
         </Point>
       </Placemark>
@@ -2422,14 +2382,6 @@
         <Point>
           <coordinates>
             7.93,49.55,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Debian Developer</name>
-        <Point>
-          <coordinates>
-            2.25,48.9,0
           </coordinates>
         </Point>
       </Placemark>
@@ -2629,7 +2581,7 @@
         <name>Debian Developer</name>
         <Point>
           <coordinates>
-            2.32,48.79,0
+            2.28,48.79,0
           </coordinates>
         </Point>
       </Placemark>
@@ -2693,6 +2645,14 @@
         <name>Debian Developer</name>
         <Point>
           <coordinates>
+            11.86,46.47,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Debian Developer</name>
+        <Point>
+          <coordinates>
             139.59,35.75,0
           </coordinates>
         </Point>
@@ -2717,7 +2677,7 @@
         <name>Debian Developer</name>
         <Point>
           <coordinates>
-            -1.25,41.28,0
+            -9.97,48.4,0
           </coordinates>
         </Point>
       </Placemark>
@@ -2734,14 +2694,6 @@
         <Point>
           <coordinates>
             -2.96,51.36,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Debian Developer</name>
-        <Point>
-          <coordinates>
-            15.45,47.06,0
           </coordinates>
         </Point>
       </Placemark>
@@ -2845,7 +2797,7 @@
         <name>Debian Developer</name>
         <Point>
           <coordinates>
-            -77.28,38.82,0
+            -122.65,45.53,0
           </coordinates>
         </Point>
       </Placemark>
@@ -2893,7 +2845,7 @@
         <name>Debian Developer</name>
         <Point>
           <coordinates>
-            2.3,48.75,0
+            2.2,48.7,0
           </coordinates>
         </Point>
       </Placemark>
@@ -2925,7 +2877,7 @@
         <name>Debian Developer</name>
         <Point>
           <coordinates>
-            -88.24,40.11,0
+            -122.4,37.78,0
           </coordinates>
         </Point>
       </Placemark>
@@ -2957,31 +2909,7 @@
         <name>Debian Developer</name>
         <Point>
           <coordinates>
-            -123.37,48.43,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Debian Developer</name>
-        <Point>
-          <coordinates>
             6.47,50.8,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Debian Developer</name>
-        <Point>
-          <coordinates>
-            8.88,48.6,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Debian Developer</name>
-        <Point>
-          <coordinates>
-            -95.43,29.73,0
           </coordinates>
         </Point>
       </Placemark>
@@ -3045,7 +2973,7 @@
         <name>Debian Developer</name>
         <Point>
           <coordinates>
-            6.59,46.54,0
+            6.85,46.47,0
           </coordinates>
         </Point>
       </Placemark>
@@ -3053,7 +2981,15 @@
         <name>Debian Developer</name>
         <Point>
           <coordinates>
-            140.98,42.35,0
+            141.33,43.06,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Debian Developer</name>
+        <Point>
+          <coordinates>
+            16.51,49.22,0
           </coordinates>
         </Point>
       </Placemark>
@@ -3085,14 +3021,6 @@
         <name>Debian Developer</name>
         <Point>
           <coordinates>
-            -52.2,-31.46,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Debian Developer</name>
-        <Point>
-          <coordinates>
             13.41,52.52,0
           </coordinates>
         </Point>
@@ -3110,14 +3038,6 @@
         <Point>
           <coordinates>
             151.23,-33.85,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Debian Developer</name>
-        <Point>
-          <coordinates>
-            -73.94,45.53,0
           </coordinates>
         </Point>
       </Placemark>
@@ -3182,14 +3102,6 @@
         <Point>
           <coordinates>
             10.75,59.93,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Debian Developer</name>
-        <Point>
-          <coordinates>
-            -97.3,37.66,0
           </coordinates>
         </Point>
       </Placemark>
@@ -3309,7 +3221,7 @@
         <name>Debian Developer</name>
         <Point>
           <coordinates>
-            136.61,36.52,0
+            136.8,36.65,0
           </coordinates>
         </Point>
       </Placemark>
@@ -3318,14 +3230,6 @@
         <Point>
           <coordinates>
             -0.13,51.31,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Debian Developer</name>
-        <Point>
-          <coordinates>
-            2.28,48.75,0
           </coordinates>
         </Point>
       </Placemark>
@@ -3365,7 +3269,7 @@
         <name>Debian Developer</name>
         <Point>
           <coordinates>
-            21.23,45.76,0
+            5.67,45.21,0
           </coordinates>
         </Point>
       </Placemark>
@@ -3421,7 +3325,7 @@
         <name>Debian Developer</name>
         <Point>
           <coordinates>
-            16.86,48.35,0
+            16.73,48.43,0
           </coordinates>
         </Point>
       </Placemark>
@@ -3438,22 +3342,6 @@
         <Point>
           <coordinates>
             24.9,60.21,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Debian Developer</name>
-        <Point>
-          <coordinates>
-            -78.5,38.02,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Debian Developer</name>
-        <Point>
-          <coordinates>
-            76.42,9.97,0
           </coordinates>
         </Point>
       </Placemark>
@@ -3493,7 +3381,7 @@
         <name>Debian Developer</name>
         <Point>
           <coordinates>
-            121.5,31.17,0
+            0.18,52.19,0
           </coordinates>
         </Point>
       </Placemark>
@@ -3541,7 +3429,23 @@
         <name>Debian Developer</name>
         <Point>
           <coordinates>
+            139.88,35.63,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Debian Developer</name>
+        <Point>
+          <coordinates>
             0.16,51.87,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Debian Developer</name>
+        <Point>
+          <coordinates>
+            12.55,55.72,0
           </coordinates>
         </Point>
       </Placemark>
@@ -3589,14 +3493,6 @@
         <name>Debian Developer</name>
         <Point>
           <coordinates>
-            -8.64,41.15,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Debian Developer</name>
-        <Point>
-          <coordinates>
             30.25,59.88,0
           </coordinates>
         </Point>
@@ -3629,7 +3525,7 @@
         <name>Debian Developer</name>
         <Point>
           <coordinates>
-            -118.42,34.02,0
+            0.58,44.84,0
           </coordinates>
         </Point>
       </Placemark>
@@ -3637,7 +3533,7 @@
         <name>Debian Developer</name>
         <Point>
           <coordinates>
-            10.02,51.8,0
+            -118.42,34.02,0
           </coordinates>
         </Point>
       </Placemark>
@@ -3662,22 +3558,6 @@
         <Point>
           <coordinates>
             -86.62,40.37,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Debian Developer</name>
-        <Point>
-          <coordinates>
-            -93.29,45.16,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Debian Developer</name>
-        <Point>
-          <coordinates>
-            13.18,55.7,0
           </coordinates>
         </Point>
       </Placemark>
@@ -3725,7 +3605,7 @@
         <name>Debian Developer</name>
         <Point>
           <coordinates>
-            34.92,32.18,0
+            35,32.24,0
           </coordinates>
         </Point>
       </Placemark>
@@ -3741,7 +3621,7 @@
         <name>Debian Developer</name>
         <Point>
           <coordinates>
-            -122,49,0
+            -93,45,0
           </coordinates>
         </Point>
       </Placemark>
@@ -3797,14 +3677,6 @@
         <name>Debian Developer</name>
         <Point>
           <coordinates>
-            4.88,45.77,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Debian Developer</name>
-        <Point>
-          <coordinates>
             -86.78,34.64,0
           </coordinates>
         </Point>
@@ -3838,6 +3710,14 @@
         <Point>
           <coordinates>
             -51.23,-30.03,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Debian Developer</name>
+        <Point>
+          <coordinates>
+            110.87,32.15,0
           </coordinates>
         </Point>
       </Placemark>
@@ -3893,6 +3773,14 @@
         <name>Debian Developer</name>
         <Point>
           <coordinates>
+            -84.51,39.09,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Debian Developer</name>
+        <Point>
+          <coordinates>
             -122.4,37.8,0
           </coordinates>
         </Point>
@@ -3917,14 +3805,6 @@
         <name>Debian Developer</name>
         <Point>
           <coordinates>
-            -95.38,29.73,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Debian Developer</name>
-        <Point>
-          <coordinates>
             150.9,-33.77,0
           </coordinates>
         </Point>
@@ -3942,14 +3822,6 @@
         <Point>
           <coordinates>
             -0.37,39.47,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Debian Developer</name>
-        <Point>
-          <coordinates>
-            13.34,59.45,0
           </coordinates>
         </Point>
       </Placemark>
@@ -3989,7 +3861,7 @@
         <name>Debian Developer</name>
         <Point>
           <coordinates>
-            140.26,36.02,0
+            135.36,34.73,0
           </coordinates>
         </Point>
       </Placemark>
@@ -3997,7 +3869,7 @@
         <name>Debian Developer</name>
         <Point>
           <coordinates>
-            -60.84,14.48,0
+            -149.57,-17.55,0
           </coordinates>
         </Point>
       </Placemark>
@@ -4021,7 +3893,15 @@
         <name>Debian Developer</name>
         <Point>
           <coordinates>
-            2.47,48.84,0
+            2.25,48.84,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Debian Developer</name>
+        <Point>
+          <coordinates>
+            -38.48,-12.97,0
           </coordinates>
         </Point>
       </Placemark>
@@ -4046,14 +3926,6 @@
         <Point>
           <coordinates>
             -49.28,-25.44,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Debian Developer</name>
-        <Point>
-          <coordinates>
-            8.65,49.87,0
           </coordinates>
         </Point>
       </Placemark>
@@ -4125,6 +3997,14 @@
         <name>Debian Developer</name>
         <Point>
           <coordinates>
+            6.97,50.76,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Debian Developer</name>
+        <Point>
+          <coordinates>
             10.79,51.83,0
           </coordinates>
         </Point>
@@ -4174,14 +4054,6 @@
         <Point>
           <coordinates>
             15.51,58.51,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Debian Developer</name>
-        <Point>
-          <coordinates>
-            2.31,48.78,0
           </coordinates>
         </Point>
       </Placemark>
@@ -4293,14 +4165,6 @@
         <name>Debian Developer</name>
         <Point>
           <coordinates>
-            11.7,44.79,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Debian Developer</name>
-        <Point>
-          <coordinates>
             143.24,64.57,0
           </coordinates>
         </Point>
@@ -4365,14 +4229,6 @@
         <name>Debian Developer</name>
         <Point>
           <coordinates>
-            -89.25,43.03,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Debian Developer</name>
-        <Point>
-          <coordinates>
             -122.73,45.47,0
           </coordinates>
         </Point>
@@ -4405,7 +4261,7 @@
         <name>Debian Developer</name>
         <Point>
           <coordinates>
-            -88.59,47.13,0
+            6.6,53.25,0
           </coordinates>
         </Point>
       </Placemark>
@@ -4493,7 +4349,7 @@
         <name>Debian Developer</name>
         <Point>
           <coordinates>
-            121.58,31.13,0
+            5.85,45.29,0
           </coordinates>
         </Point>
       </Placemark>
